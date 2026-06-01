@@ -1,0 +1,2 @@
+Here you will handle merge conflict.
+hello guys this is important topic to learn as a git developer
